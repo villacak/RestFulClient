@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">RestFulClient</string>
+    <string name="action_settings">Settings</string>
+    <string name="restFulTxt">This is a example to invoke a Restful service.</string>
+    
+    <string name="callServiceBtn">Call Service Error</string>
+    <string name="callService2Btn">Call Service Success</string>
+
+    <string name="responseTxt">No WS Calls.</string>
+    
+    
+</resources>
